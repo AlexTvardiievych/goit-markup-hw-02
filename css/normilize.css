@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@AlexTvardiievych 
-AleksaHrevtsova
-/
-fe33-module-2
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-fe33-module-2/css/modern-normalize.css
-@AleksandraHrevtsova
-AleksandraHrevtsova fonts & colors
-Latest commit fe182a2 yesterday
- History
- 1 contributor
-306 lines (242 sloc)  5.07 KB
-  
 /*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
 /* ===== ДОПОЛНЕНИЯ от Sandra Hrevtsova ===== */
@@ -47,6 +17,7 @@ kbd,
 samp,
 pre {
   font-family: 'Open Sans', sans-serif;
+  
   /* font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; 1 */
   font-size: 1em; /* 2 */
 }
@@ -228,6 +199,7 @@ Remove the inheritance of text transform in Edge and Firefox.
 
 button,
 select {
+  
   /* 1 */
   text-transform: none;
 }
@@ -334,15 +306,3 @@ Add the correct display in Chrome and Safari.
 summary {
   display: list-item;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
